@@ -1,0 +1,77 @@
+---
+author: hummersoftware
+comments: true
+date: 2013-01-25 16:32:52+00:00
+layout: post
+link: http://www.hummersoftware.com/uncategorized/mp3-encoder
+slug: mp3-encoder
+title: MP3 Encoder - Any Music To MP3
+wordpress_id: 379
+categories:
+- MP3 Encoder - Any Music To MP3
+---
+
+MP3 Encoder is a easy to use and powerful utility for converting any music to mp3 with the original metadata copied to the output files (with your option). It is multi-thread supported, so you can batch encode multiple files at once, and also it will copy the original file's metadata to the output MP3 files, so you can preview the album artwork, artist, lyric, etc on your iPod, iPhone. Enjoy your music no matter the original music file is, just by dragging the music to MP3 Encoder.
+
+★★★★★ Main Features:
+1. Multi-Threaded
+Easy Music Converter is multi-threaded and can batch convert at once .
+
+2. Wide Variety Of Input And Output Formats (see list below)
+
+3. Music Metadata Copied
+Support copying metadata from input music to output musics, including album artwork, artist, lyrics, etc
+
+4. Encoding Options
+MP3 Encoder provides you with a full range of encoding options for every available codec (Sample rate, Bit rate, Channels).
+
+5. Easy To Use User Interface
+● you can easily to set the encoding options by set the output quality,
+● drag in to import and drop out to delete is supported.
+
+➤Video Import formats supported:
+============================
+WMV
+RM
+RMVB
+MPG
+AVI
+MKV
+MOV
+FLV
+MP4
+TS
+MTS
+3GP
+SWF
+M4V
+ASF
+OGM
+NSV
+VOB
+
+➤Audio Import formats supported:
+============================
+WAV
+WMA
+MP3
+MP2
+FLAC
+APE
+ACC
+OGG
+M4A
+AC3
+AMR
+DSD
+
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+If you have any problem you can contact me by 3 methods as follow:
+Email:support@hummersoftware.com; hummersoftware@gmail.com
+web: http://www.hummersoftware.com/index.php/contacts-me/
+I will contact you as soon as possible. Thank you!
+★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★★
+
+[gallery link="file" ids="380,381,382,383,384"]
+
+[![mac store-available](http://www.hummersoftware.com/wp-content/uploads/2012/12/mas-available.png)](https://itunes.apple.com/us/app/mp3-encoder-any-music-to-mp3/id594784805?ls=1&mt=12)
